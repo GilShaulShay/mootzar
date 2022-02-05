@@ -7,6 +7,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('this is mootzar we have a log of work ahead of us')
+    print_hi('this is mootzar')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
